@@ -4,7 +4,7 @@
 # Red Hat OpenShift 4.x Infrastructure Workshop
 ## remote version
 
-April 2020
+May 2020
 
 ## Agenda:
 
