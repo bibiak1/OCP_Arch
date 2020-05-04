@@ -28,11 +28,13 @@ May 2020
 
 13:00		BREAK
 
-14:00		HandsOn Lab - Learn OpenShift 
+14:00		CoreOS & CRI-O
 
-17:00		Wrapup and virtual after work drink
+15:00		Operator Framework
 
+16:00		HandsOn Lab - Learn OpenShift 
 
+18:00		Open End		
 
 
 ### Day 2:
@@ -47,7 +49,7 @@ May 2020
 
 10:45		BREAK
 
-11:00		Open Shift Security
+11:00		Cluster Manager
 
 12:00		OpenShift RoadMap			
 
