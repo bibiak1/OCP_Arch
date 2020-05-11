@@ -51,6 +51,8 @@ May 2020
 
 11:00		Cluster Manager
 
+11:30		Serverless
+
 12:00		OpenShift RoadMap			
 
 12:45		Q&A and Feedback
