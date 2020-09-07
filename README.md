@@ -4,7 +4,7 @@
 # Red Hat OpenShift 4.x Infrastructure Workshop
 ## remote version
 
-June 2020
+Sept 2020
 
 ## Agenda:
 
@@ -13,10 +13,9 @@ June 2020
 
 9:00		Welcome and Intro
 
-		https://www.menti.com/wq7y7j1wjd
-		
+9:15		The platform for big ideas
 
-9:15		OpenShift Architecture Part 1
+10:15   OpenShift Architecture Part 1
 
 				Overview / Installation
 
@@ -26,32 +25,36 @@ June 2020
 
 				Configuration Networking Storage
 
-13:00		BREAK
+12:30		LUNCH BREAK
 
-14:00		CoreOS & CRI-O
+13:15		Intro an welcome for advanced people
 
-15:00		Operator Framework
+13:30		CoreOS, CRI-O and operator framework
 
-16:00		HandsOn Lab - Learn OpenShift 
+15:00		BREAK
 
-18:00		Open End		
+15:15		Cloud-Native on OpenShift
+
+16:00		HandsOn Lab - Learn.OpenShift.com  
+
+	    	OPEN END
 
 
 ### Day 2:
 
 9:00		Introduction Day2
 
-9:15		OpenShift Advanced Features
+9:15		OpenShift Virtualisation
 
-				Container Native Virtualisation
+10:00		Advanced Cluster Management for Kubernetes
 
-				Modern Registry Management (QUAY)				
+11:00		BREAK
 
-10:45		BREAK
+11:15		Modern Registry Management (QUAY)				
 
-11:00		Cluster Manager
+12:00		OpenShift Security
 
-11:30		Serverless
+13:00		LUNCH BREAK
 
 12:00		OpenShift RoadMap			
 
@@ -59,7 +62,10 @@ June 2020
 
 13:00		BREAK
 
-14:00		HandsOn Lab 
+14:00		RoadMap
+
+15:30   Intro to the HandsOn Lab
+
+16:00		Q&A
 
 17:00		End of day two
-
