@@ -17,13 +17,9 @@ Sept 2020
 
 10:15   OpenShift Architecture Part 1
 
-				Overview / Installation
-
 11:00		BREAK
 
 11:15		OpenShift Architecture Part 2
-
-				Configuration Networking Storage
 
 12:30		LUNCH BREAK
 
@@ -37,7 +33,7 @@ Sept 2020
 
 16:00		HandsOn Lab - Learn.OpenShift.com  
 
-	    	OPEN END
+OPEN END
 
 
 ### Day 2:
@@ -64,7 +60,7 @@ Sept 2020
 
 14:00		RoadMap
 
-15:30   Intro to the HandsOn Lab
+15:30           Intro to the HandsOn Lab
 
 16:00		Q&A
 
