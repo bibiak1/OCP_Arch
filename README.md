@@ -4,6 +4,8 @@
 # Red Hat OpenShift 4.x Infrastructure Workshop
 ## remote version
 
+## https://www.menti.com/wq7y7j1wjd
+
 December 2020
 
 ## Agenda:
