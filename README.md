@@ -4,7 +4,7 @@
 # Red Hat OpenShift 4.x Infrastructure Workshop
 ## remote version
 
-Sept 2020
+December 2020
 
 ## Agenda:
 
@@ -13,7 +13,7 @@ Sept 2020
 
 9:00		Welcome and Intro
 
-9:15		The platform for big ideas
+9:15		Red Hat - IBM Joint Strategy
 
 10:15   OpenShift Architecture Part 1
 
