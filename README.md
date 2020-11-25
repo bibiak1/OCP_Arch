@@ -21,17 +21,17 @@ December 2020
 
 11:00		BREAK
 
-11:15		OpenShift Architecture Part 2
+11:30		OpenShift Architecture Part 2
 
 12:30		LUNCH BREAK
 
-13:15		Intro an welcome for advanced people
+13:30	  OpenShift Install	
 
-13:30		CoreOS, CRI-O and operator framework
+14:15		CoreOS, CRI-O and operator framework
 
 15:00		BREAK
 
-15:15		Cloud-Native on OpenShift
+15:15		Cloud-Native and Quarkus on OpenShift
 
 16:00		HandsOn Lab - Learn.OpenShift.com  
 
