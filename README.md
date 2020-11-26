@@ -42,28 +42,22 @@ OPEN END
 
 9:00		Introduction Day2
 
-9:15		OpenShift Virtualisation
+9:15		OpenShift Container Storage
 
-10:00		Advanced Cluster Management for Kubernetes
+10:00   OpenShift Virtualisation
 
-11:00		BREAK
+10:45   Break
 
-11:15		Modern Registry Management (QUAY)				
+11:00		Advanced Cluster Management for Kubernetes
 
-12:00		OpenShift Security
+11:30		Modern Registry Management (QUAY)				
 
-13:00		LUNCH BREAK
+12:30		LUNCH BREAK
 
-12:00		OpenShift RoadMap			
+13:30		OpenShift RoadMap			
 
-12:45		Q&A and Feedback
+14:45		Introduction to HandsOn 
 
-13:00		BREAK
+15:00		HandsOn Lab
 
-14:00		RoadMap
-
-15:30           Intro to the HandsOn Lab
-
-16:00		Q&A
-
-17:00		End of day two
+Open End
