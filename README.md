@@ -6,58 +6,61 @@
 
 ## https://www.menti.com/wq7y7j1wjd
 
-December 2020
+June 2021
 
 ## Agenda:
 
 
 ### Day 1:
 
-9:00		Welcome and Intro
+9:00 Welcome, Intro
 
-9:15		Red Hat - IBM Joint Strategy
+9:30 Red Hat and OpenSource
 
-10:15   OpenShift Architecture Part 1
+10:00 OpenShift - the platform for great ideas
 
-11:00		BREAK
+10:30 Break
 
-11:30		OpenShift Architecture Part 2
+10:45 OpenShift Architecture
 
-12:30		LUNCH BREAK
+12:30 Lunch Break
 
-13:30	  OpenShift Install	
+13:30 CoreOS and OpenShift 4.x
 
-14:15		CoreOS, CRI-O and operator framework
+14:15 Moving on from Docker . The new container framework
 
-15:00		BREAK
+15:00 HandsOn "Build a Container with ODO " -> https://learn.openshift.com/introduction/developing-with-odo/
 
-15:15		Cloud-Native and Quarkus on OpenShift
+15:30 Break
 
-16:00		HandsOn Lab - Learn.OpenShift.com  
+15:45 Live Demo
 
-OPEN END
+16:00 HandsOn OpenShift 4.x „Build an App with OpenShift“ -> https://learn.openshift.com/using-the-cluster/
 
+17:00 End Day One
 
 ### Day 2:
 
-9:00		Introduction Day2
+9:00 Recap Day One
 
-9:15		OpenShift Container Storage
+9:15 OpenShift Plattform Installation
 
-10:00   OpenShift Virtualisation
+10:00 Istio Service Mesh
 
-10:45   Break
+10:40 Container Native Virtualisation
 
-11:00		Advanced Cluster Management for Kubernetes
+11:00 Break
 
-11:30		Modern Registry Management (QUAY)				
+11:15 Modern Registry Management (QUAY)
 
-12:30		LUNCH BREAK
+12:00 API Management (3Scale)
 
-13:30		OpenShift RoadMap			
+12:30 Break
 
-14:45		Introduction to HandsOn 
+13:30 Running Containerized Workloads on OpenShift (IBM CloudPak, MS, ...)
 
-15:00		HandsOn Lab
+15:00 Break
 
-Open End
+15:15 Roadmap what's new , what's coming
+
+16:30 End of day two
