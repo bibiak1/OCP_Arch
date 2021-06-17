@@ -15,13 +15,13 @@ June 2021
 
 9:00 Welcome, Intro
 
-9:30 Red Hat and OpenSource
+9:30 OpenShift - the platform for great ideas
 
-10:00 OpenShift - the platform for great ideas
+10:00 OpenSHift Architecture Part 1
 
 10:30 Break
 
-10:45 OpenShift Architecture
+10:45 OpenShift Architecture Part 2
 
 12:30 Lunch Break
 
@@ -45,7 +45,7 @@ June 2021
 
 9:15 OpenShift Plattform Installation
 
-10:00 Istio Service Mesh
+10:00 Advanced Cluster Management
 
 10:40 Container Native Virtualisation
 
@@ -53,11 +53,13 @@ June 2021
 
 11:15 Modern Registry Management (QUAY)
 
-12:00 API Management (3Scale)
+12:00 Advanced Container Security
 
 12:30 Break
 
-13:30 Running Containerized Workloads on OpenShift (IBM CloudPak, MS, ...)
+13:30 OpenShift Storage
+
+14:15 OpenShift Security Options
 
 15:00 Break
 
