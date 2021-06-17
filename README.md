@@ -27,13 +27,13 @@ June 2021
 
 13:30 CoreOS and OpenShift 4.x
 
-14:15 Moving on from Docker . The new container framework
+14:15 HandsOn "Build a Container with ODO " -> https://learn.openshift.com/introduction/developing-with-odo/
 
-15:00 HandsOn "Build a Container with ODO " -> https://learn.openshift.com/introduction/developing-with-odo/
+15:00 OpenShift Serverless - CloudNative
 
 15:30 Break
 
-15:45 Live Demo
+15:45 Live Demo Building an Application
 
 16:00 HandsOn OpenShift 4.x „Build an App with OpenShift“ -> https://learn.openshift.com/using-the-cluster/
 
@@ -57,7 +57,7 @@ June 2021
 
 12:30 Break
 
-13:30 OpenShift Storage
+13:30 OpenShift Storage Foundation
 
 14:15 OpenShift Security Options
 
