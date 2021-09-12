@@ -51,7 +51,7 @@ Okt 2021
 
 12:00		OpenShift from a security perspective
 
-		Advanced Security Management for Kubernetes 
+12:45		Advanced Security Management for Kubernetes 
 
 13:15		BREAK
 		
