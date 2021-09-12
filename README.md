@@ -13,56 +13,40 @@ June 2021
 
 ### Day 1:
 
-9:00 Welcome, Intro
+9:00		Welcome and Intro	
+9:15		OpenShift - Overview
+10:15		OpenShift Architecture Part 1
 
-9:30 OpenShift - the platform for great ideas
+11:00		BREAK		
 
-10:00 OpenSHift Architecture Part 1
+11:15		OpenShift Architecture Part 2
+12:15		Intro to HandsOn Lab
 
-10:30 Break
+12:30		BREAK
 
-10:45 OpenShift Architecture Part 2
-
-12:30 Lunch Break
-
-13:30 CoreOS and OpenShift 4.x
-
-14:15 HandsOn "Build a Container with ODO " -> https://learn.openshift.com/introduction/developing-with-odo/
-
-15:00 OpenShift Serverless - CloudNative
-
-15:30 Break
-
-15:45 Live Demo Building an Application
-
-16:00 HandsOn OpenShift 4.x „Build an App with OpenShift“ -> https://learn.openshift.com/using-the-cluster/
-
-17:00 End Day One
+13:30		HandsOn Lab - learn.openshift.com
+14:30		Operator Framework, CoreOS, and CRI- The new container framework
+15:00		Break
+15:10		OpenShift Plattform Installation
+16:00		WrapUp End of Day 1
 
 ### Day 2:
 
-9:00 Recap Day One
+9:00		Introduction Day2
+9:15		OpenShift Virtualisation		
+10:00		Advanced Cluster Management
 
-9:15 OpenShift Plattform Installation
+11:00		BREAK
 
-10:00 Advanced Cluster Management
+11:15		Modern Registry Management (QUAY)
+12:00		OpenShift from a security perspective
+		Advanced Security Management for Kubernetes 
 
-10:40 Container Native Virtualisation
+13:15		BREAK
+		
+14:15		OpenShift Storage Foundation
+14:35		Introduction into Cloud Native (Serverless)
+14:55		Break
+15:00		What´s Comming in Openshift (RoadMap)
+16:00		Q&A and End		
 
-11:00 Break
-
-11:15 Modern Registry Management (QUAY)
-
-12:00 Advanced Container Security
-
-12:30 Break
-
-13:30 OpenShift Storage Foundation
-
-14:15 OpenShift Security Options
-
-15:00 Break
-
-15:15 Roadmap what's new , what's coming
-
-16:30 End of day two
