@@ -6,7 +6,7 @@
 
 ## https://www.menti.com/wq7y7j1wjd
 
-Jan 2022
+Okt 2021
 
 ## Agenda:
 
