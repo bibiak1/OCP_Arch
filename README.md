@@ -6,7 +6,7 @@
 
 ## https://www.menti.com/wq7y7j1wjd
 
-Jan 2022
+May 2022
 
 ## Agenda:
 
@@ -23,11 +23,9 @@ Jan 2022
 
 11:15		OpenShift Architecture Part 2
 
-12:15		Intro to HandsOn Lab
-
 12:30		BREAK
 
-13:30		HandsOn Lab - learn.openshift.com
+13:30		Selflearning Enviroment (Developer.redhat.com)
 
 14:30		Operator Framework, CoreOS, and CRI- The new container framework
 
