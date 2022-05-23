@@ -4,6 +4,10 @@
 # Red Hat OpenShift 4.x Infrastructure Workshop
 ## remote version
 
+BJ Link 
+
+## https://bluejeans.com/169348917/4605
+
 ## https://www.menti.com/wq7y7j1wjd
 
 May 2022
