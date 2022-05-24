@@ -35,7 +35,7 @@ May 2022
 
 15:00		Break
 
-15:10		OpenShift Plattform Installation
+15:10		OpenShift Platform Installation
 
 16:00		WrapUp End of Day 1
 
