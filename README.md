@@ -21,7 +21,7 @@ May 2022
 
 9:15		OpenShift - Overview
 
-10:15		OpenShift Architecture Part 1
+10:00		OpenShift Architecture Part 1
 
 11:00		BREAK		
 
@@ -29,7 +29,7 @@ May 2022
 
 12:30		BREAK
 
-13:30		Selflearning Enviroment (Developer.redhat.com)
+13:30		Selflearning Enviroment (developer.redhat.com)
 
 14:30		Operator Framework, CoreOS, and CRI- The new container framework
 
