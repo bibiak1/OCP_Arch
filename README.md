@@ -29,7 +29,7 @@ May 2022
 
 12:30		BREAK
 
-13:30		Selflearning Enviroment (developer.redhat.com)
+13:30		Self learning Environment (developer.redhat.com)
 
 14:30		Operator Framework, CoreOS, and CRI- The new container framework
 
