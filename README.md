@@ -49,15 +49,15 @@ May 2022
 
 11:00		BREAK
 
-11:15		Modern Registry Management (QUAY)
+11:15		OpenShift Storage Foundation
 
 12:00		OpenShift from a security perspective
 
 12:45		Advanced Security Management for Kubernetes 
 
-13:15		BREAK
+13:00		BREAK
 		
-14:15		OpenShift Storage Foundation
+14:00		Modern Registry Management (QUAY)
 
 14:35		Introduction into Cloud Native (Serverless)
 
