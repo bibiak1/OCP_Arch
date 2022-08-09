@@ -6,14 +6,13 @@
 
 BJ Link 
 
-## https://bluejeans.com/947990370
+## https://bluejeans.com/947990370/7848
 
 ## https://www.menti.com/wq7y7j1wjd
 
 May 2022
 
 ## Agenda:
-
 
 ### Day 1:
 
@@ -66,4 +65,3 @@ May 2022
 15:00		What´s Comming in Openshift (RoadMap)
 
 16:00		Q&A and End		
-
