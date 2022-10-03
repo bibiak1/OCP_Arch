@@ -10,7 +10,7 @@ BJ Link
 
 ## https://www.menti.com/wq7y7j1wjd
 
-May 2022
+Oct 2022
 
 ## Agenda:
 
@@ -28,15 +28,23 @@ May 2022
 
 12:30		BREAK
 
-13:30		Self learning Environment (developer.redhat.com)
+13:30		Operator Framework, CoreOS, and CRI- The new container framework
 
-14:15		Operator Framework, CoreOS, and CRI- The new container framework
+14:15		OpenShift Platform Installation
 
 15:00		Break
 
-15:10		OpenShift Platform Installation
+15:10		Introduction into SelfLearning - 
 
-16:00		WrapUp End of Day 1
+		enroll to : Red Hat Sales Engineer Specialist - Container Platform
+
+		https://connect.redhat.com/en/training/course-catalog?m=lp&id=42541521 
+		
+		Red Hat OpenShift 4 Foundations
+
+		https://connect.redhat.com/en/training/course-catalog?m=c&id=42415995
+
+17:00		End of Day 1
 
 ### Day 2:
 
@@ -64,4 +72,8 @@ May 2022
 
 15:00		What´s Comming in Openshift (RoadMap)
 
-16:00		Q&A and End		
+16:00		Continue SelfLearning and Assesment
+
+		Red Hat OpenShift 4 Foundations
+
+		https://connect.redhat.com/en/training/course-catalog?m=c&id=42415995		
