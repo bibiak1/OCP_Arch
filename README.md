@@ -56,7 +56,7 @@ Oct 2022
 
 11:00		BREAK
 
-11:15		OpenShift Storage Foundation
+11:15		OpenShift Data Foundation (ODF)
 
 12:00		OpenShift from a security perspective
 
