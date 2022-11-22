@@ -6,7 +6,7 @@
 
 BJ Link 
 
-## https://bluejeans.com/967979708/6105
+## https://bluejeans.com/978948828/1618
 
 ## https://www.menti.com/wq7y7j1wjd
 
@@ -60,17 +60,17 @@ Oct 2022
 
 12:00		OpenShift from a security perspective
 
-12:45		Advanced Security Management for Kubernetes 
+12:45		Advanced Container Security (ACS) 
 
-13:00		BREAK
+13:30		BREAK
 		
-14:00		Modern Registry Management (QUAY)
+14:30		Modern Registry Management (QUAY)
 
-14:35		Introduction into Cloud Native (Serverless)
+14:45		Introduction into Cloud Native (Serverless)
 
-14:55		Break
+15:00		Break
 
-15:00		What´s Comming in Openshift (RoadMap)
+15:15		What´s Comming in Openshift (RoadMap)
 
 16:00		Continue SelfLearning and Assesment
 
