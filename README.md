@@ -68,11 +68,9 @@ Oct 2022
 
 14:45		Introduction into Cloud Native (Serverless)
 
-15:00		Break
+15:15		END
 
-15:15		What´s Comming in Openshift (RoadMap)
-
-16:00		Continue SelfLearning and Assesment
+		Continue SelfLearning and Assesment
 
 		Red Hat OpenShift 4 Foundations
 
