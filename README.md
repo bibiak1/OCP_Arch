@@ -38,7 +38,7 @@ Oct 2022
 
 		enroll to : Red Hat Sales Engineer Specialist - Container Platform
 
-		https://connect.redhat.com/en/training/course-catalog?m=lp&id=42541521 
+		https://connect.redhat.com/en/training/course-catalog?m=lp&id=42541521&utm_source=LOC 
 		
 		Red Hat OpenShift 4 Foundations
 
