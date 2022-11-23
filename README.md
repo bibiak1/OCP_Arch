@@ -46,6 +46,8 @@ Oct 2022
 
 17:00		End of Day 1
 
+-> this is the link to the recordings of todays sessions: https://bluejeans.com/s/tte_eugmyZ3
+
 ### Day 2:
 
 9:00		Introduction Day2
