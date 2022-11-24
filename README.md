@@ -77,3 +77,5 @@ Oct 2022
 		Red Hat OpenShift 4 Foundations
 
 		https://connect.redhat.com/en/training/course-catalog?m=c&id=42415995		
+
+-> this is the link to the recordings of todays sessions: https://bluejeans.com/s/gRQdJFoqdr7
