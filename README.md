@@ -10,6 +10,8 @@ BJ Link
 
 ## https://www.menti.com/wq7y7j1wjd
 
+the Link to addditiona offerings is in the WIKI Section of this repository
+
 Oct 2022
 
 ## Agenda:
